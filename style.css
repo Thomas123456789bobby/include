@@ -1,0 +1,9 @@
+.imgs{
+    display: flex;
+    justify-content: space-evenly;
+}
+#uo{
+    background-color: black;
+    border: 5px solid;
+    border-color: aqua;
+}
